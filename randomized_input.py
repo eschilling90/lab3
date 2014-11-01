@@ -20,13 +20,13 @@ def randomized_user_list(n,k):
   return result
   
 
-if (len(sys.argv) > 1):
-  num_lines = int(sys.argv[1])
+if (len(sys.argv) > 2):
+  num_lines = int(sys.argv[2])
 else:
   num_lines = 100
 
-if (len(sys.argv) > 2):
-  num_users = int(sys.argv[2])
+if (len(sys.argv) > 3):
+  num_users = int(sys.argv[3])
 else:
   num_users = 10
 
