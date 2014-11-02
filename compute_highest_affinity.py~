@@ -32,7 +32,7 @@ def highest_affinity(site_list, user_list, time_list):
 						max_site2 = site2
 					else:
 						max_site2 = site1
-						#max_site1 = site2
+						max_site1 = site2
 		
 	# Returned string pair should be ordered by dictionary order
 	# I.e., if the highest affinity pair is "foo" and "bar"
