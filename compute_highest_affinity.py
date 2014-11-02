@@ -39,31 +39,3 @@ def highest_affinity(site_list, user_list, time_list):
 	# return ("bar", "foo"). 
 	#print (max_site1, max_site2)
 	return (max_site1, max_site2)
-
-def unusedMethod():
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
-	print "This method is not used"
