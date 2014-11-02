@@ -19,6 +19,7 @@ def highest_affinity(site_list, user_list, time_list):
 	max_site1 = ""
 	max_site2 = ""
 	max_count = 0
+	count = 0
 	for site1 in site_dict:
 		for site2 in site_dict:
 			if (site1 != site2):
